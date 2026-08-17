@@ -48,6 +48,6 @@ A web-based image processing application built with Flask, OpenCV, NumPy, HTML, 
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefNofal99&show_icons=true&theme=tokyonight&cache_seconds=86400" height="185" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefNofal99&theme=tokyonight&cache_seconds=86400" height="185" alt="Top Languages" />
+  <img src="https://readme-stats-github.pages.dev/api?username=YoussefNofal99&show_icons=true&theme=tokyonight" height="185" alt="GitHub Stats" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs/?username=YoussefNofal99&theme=tokyonight" height="185" alt="Top Languages" />
 </p>
