@@ -48,6 +48,6 @@ A web-based image processing application built with Flask, OpenCV, NumPy, HTML, 
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://readme-stats-github.pages.dev/api/top-langs/?username=YoussefNofal99&theme=dark&bg_color=151515" height="180px" alt="Top Languages" />
-  <img src="https://leetcard.jacoblin.cool/YoussefNofal99?theme=dark" height="180px" alt="LeetCode Stats" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs/?username=YoussefNofal99&theme=dark&bg_color=151515" height="190px" alt="Top Languages" />
+  <img src="https://leetcard.jacoblin.cool/YoussefNofal99?theme=dark" height="190px" alt="LeetCode Stats" />
 </p>
