@@ -36,7 +36,7 @@ AI student at Minufiya University interested in machine learning, image processi
 ## Interests
 
 - Machine Learning & Deep Learning
-- Image Processing & computer vision
+- Image Processing & Computer Vision
 - Data Structures & Algorithms
 - Problem Solving
 
