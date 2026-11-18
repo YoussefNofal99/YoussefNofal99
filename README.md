@@ -24,6 +24,7 @@ AI student at Minufiya University interested in machine learning, image processi
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="70" height="70"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="70" height="70"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="Tensor-Flow" width="70" height="70"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="70" height="70"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="70" height="70"/> &nbsp;
 
 ### Tools & Platforms
