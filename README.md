@@ -1,6 +1,7 @@
 # Youssef Nofal 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&logoWidth=50&logoHeight=50)](https://www.linkedin.com/in/youssef-nofal-24b53a353)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=50&logoHeight=50)](mailto:youssefnofal9999@gmail.com)
 
 ## About Me
 AI student at Minufiya University interested in machine learning, image processing, data structures, algorithms, and problem solving. Building practical projects using Python and C++.
